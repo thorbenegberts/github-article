@@ -1,5 +1,10 @@
 # Readme
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+
 ## Purpose of this Module
 
 // TODO finish
