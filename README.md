@@ -4,7 +4,7 @@
 <br>
 
 ```bash
-$git pull
+$ git pull
 Fetched 0 commits on master.
 Already up-to-date.
 ```
